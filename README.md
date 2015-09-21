@@ -1,3 +1,3 @@
 # Adevops
 training
-This is a test training file
+This is a test training file.
